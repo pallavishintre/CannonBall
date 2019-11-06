@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Block.cs" t="Include" />
+          <e p="Cannon.cs" t="Include" />
+          <e p="ForceInput.cs" t="Include" />
+          <e p="ForceInputConstrainedLeft.cs" t="Include" />
+          <e p="ForceInputConstrainedRight.cs" t="Include" />
+          <e p="ForceInput_old.cs" t="Include" />
+          <e p="ForceVectorIndicator.cs" t="Include" />
+          <e p="GoScript.cs" t="Include" />
+          <e p="ImpedanceInput.cs" t="Include" />
+          <e p="PositionInputLeft.cs" t="Include" />
+          <e p="PositionInputRight.cs" t="Include" />
+          <e p="PrintToConsole.cs" t="Include" />
+          <e p="SimpleMoveScript.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="RunExternalScript.cs" t="Include" />
+          </e>
+          <e p="WaitScript.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

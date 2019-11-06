@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_CannonBowl.1528094491.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="HostAndClientInput.cs" t="Include" />
+          <e p="PracticeInput.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="ChangeScene.cs" t="Include" />
+            <e p="RunExternalScript.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CannonBowl.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
